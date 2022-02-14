@@ -1,5 +1,5 @@
 *
 
 !.gitignore
-!/csgo/cfg/csgoserver.cfg
-!/csgo/cfg/sourcemod/**
+!csgo/cfg/csgoserver.cfg
+!csgo/cfg/sourcemod/**
