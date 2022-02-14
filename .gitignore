@@ -16,8 +16,8 @@ csgo/sourcemod/*
 !csgo/sourcemod/configs/pugsetup/
 
 csgo/addons/*
-#!csgo/addons/sourcemod/
-#csgo/addons/sourcemod/*
+!csgo/addons/sourcemod/
+csgo/addons/sourcemod/*
 !csgo/addons/sourcemod/scripting/
 !csgo/addons/sourcemod/plugins/
 !csgo/addons/sourcemod/configs/
