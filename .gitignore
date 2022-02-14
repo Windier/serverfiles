@@ -1,5 +1,7 @@
 /*
 !.gitignore
-!csgo/*
+!csgo/
+csgo/*
+!csgo/cfg/
 csgo/cfg/*
 !csgo/cfg/csgoserver.cfg
