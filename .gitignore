@@ -4,6 +4,16 @@
 !csgo/
 csgo/*
 !csgo/cfg/
+!csgo/sourcemod/
+!csgo/addons/
+
 csgo/cfg/*
 !csgo/cfg/sourcemod/
 !csgo/cfg/csgoserver.cfg
+
+csgo/sourcemod/*
+!csgo/sourcemod/pugsetup/
+!csgo/sourcemod/configs/pugsetup/
+!csgo/addons/sourcemod/scripting/
+!csgo/addons/sourcemod/plugins/
+!csgo/addons/sourcemod/configs/
