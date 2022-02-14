@@ -5,5 +5,5 @@
 csgo/*
 !csgo/cfg/
 csgo/cfg/*
-!csgo/cfg/sourcemod/**
+!csgo/cfg/sourcemod/
 !csgo/cfg/csgoserver.cfg
